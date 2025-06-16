@@ -3,7 +3,7 @@
 
 **Overview of the proposed scheme:**
 ---
-![summary](https://github.com/user-attachments/assets/996e4323-a057-4e78-b665-8f78426e57a4)
+![overview](https://github.com/user-attachments/assets/6f26dbfa-5cbe-412d-9953-5d1076e4bba8)
 
 
 **Fixed Prompt:**
