@@ -22,9 +22,6 @@ The following screenshot summarizes our main quantitative findings, including de
 
 **📚 Citation:**
 ---
-
-📌 This citation will be updated once the paper is officially published.
-
 ```bibtex
 @misc{your2024watermarking,
   title={Robust Watermarking via Prompt-Based Instruction Injection in Language Models},
@@ -33,3 +30,5 @@ The following screenshot summarizes our main quantitative findings, including de
   year={2024},
   note={Under review}
 }
+```
+📌 This citation will be updated once the paper is officially published.
