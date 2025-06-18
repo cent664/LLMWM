@@ -16,11 +16,15 @@ The fixed prompt used to guide the Prompting LM in generating system instruction
 ![fixed_p](https://github.com/user-attachments/assets/31aecde7-c20e-44fa-8fa0-d775640500fb)
 
 **📊 Results Snapshot:**
+---
 The following screenshot summarizes our main quantitative findings, including detection accuracy under fine-tuning and distillation. Our method achieves high robustness even under model transformations, demonstrating the reliability and adaptability of the watermark signal.
 ![Capture](https://github.com/user-attachments/assets/8b1a7855-e797-427f-8cdb-3370eb6b3e9f)
 
 **📚 Citation:**
 ---
+
+📌 This citation will be updated once the paper is officially published.
+
 ```bibtex
 @misc{your2024watermarking,
   title={Robust Watermarking via Prompt-Based Instruction Injection in Language Models},
@@ -29,5 +33,3 @@ The following screenshot summarizes our main quantitative findings, including de
   year={2024},
   note={Under review}
 }
-
-📌 This citation will be updated once the paper is officially published.
