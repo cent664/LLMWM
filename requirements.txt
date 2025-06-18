@@ -1,0 +1,21 @@
+accelerate==1.2.1
+datasets
+deepspeed==0.16.4
+matplotlib
+matplotlib-inline
+nltk
+numpy
+numpydoc
+pandas==1.5.3
+peft @ git+https://github.com/huggingface/peft.git@6383a6bba454699c0a8a9e068a74d5bdb9232c9a
+scikit-learn
+scikit-learn-intelex==20230426.111612
+seaborn
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+tqdm
+transformers @ git+https://github.com/huggingface/transformers.git@397a5ede33863d6f7137c771a68d40036cac0396
+rouge-score
+python-Levenshtein
+huggingface-hub
