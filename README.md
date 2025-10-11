@@ -23,12 +23,14 @@ The following screenshot summarizes our main quantitative findings, including de
 **📚 Citation:**
 ---
 ```bibtex
-@misc{your2024watermarking,
-  title={Robust Watermarking via Prompt-Based Instruction Injection in Language Models},
-  author={Your Name and Collaborator Name(s)},
-  howpublished={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024},
-  note={Under review}
+@misc{dasgupta2025watermarkinglanguagemodelslanguage,
+      title={Watermarking Language Models through Language Models}, 
+      author={Agnibh Dasgupta and Abdullah Tanvir and Xin Zhong},
+      year={2025},
+      eprint={2411.05091},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.05091}, 
 }
 ```
-📌 This citation will be updated once the paper is officially published.
+📌 A. Dasgupta, A. Tanvir, and X. Zhong, "Watermarking Language Models through Language Models," IEEE Transactions on Artificial Intelligence, vol. 1, no. 01, pp. 1-10, 2025. (This citation will be updated once the paper is officially published)
