@@ -34,4 +34,5 @@ The following screenshot summarizes our main quantitative findings, including de
 }
 ```
 📌 A. Dasgupta, A. Tanvir, and X. Zhong, "Watermarking Language Models through Language Models," IEEE Transactions on Artificial Intelligence, vol. 1, no. 01, pp. 1-10, 2025.
+
 (This citation will be updated once the paper is officially published)
