@@ -23,14 +23,16 @@ The following screenshot summarizes our main quantitative findings, including de
 **📚 Citation:**
 ---
 ```bibtex
-@misc{dasgupta2025watermarkinglanguagemodelslanguage,
-      title={Watermarking Language Models through Language Models}, 
-      author={Agnibh Dasgupta and Abdullah Tanvir and Xin Zhong},
-      year={2025},
-      eprint={2411.05091},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2411.05091}, 
+@ARTICLE{11146861,
+  author={Dasgupta, Agnibh and Tanvir, Abdullah All and Zhong, Xin},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={Watermarking Language Models through Language Models}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Watermarking;Adaptation models;Robustness;Training;Large language models;Intellectual property;Closed box;Tuning;Context modeling;Codes;Content authentication;instruction control;large language models;prompt engineering;robust watermarking},
+  doi={10.1109/TAI.2025.3605117}
 }
 ```
 📌 A. Dasgupta, A. A. Tanvir and X. Zhong, "Watermarking Language Models through Language Models," in IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3605117.
